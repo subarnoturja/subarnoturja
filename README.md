@@ -1,11 +1,20 @@
-# 	:hand: Hello! there, Myself Subarno
+# 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=%3Ahand%3A+Hello!+there%2C+Myself+Subarno" alt="Typing SVG" /></a>
 
 ## :boy: About Me
 :smiley: I'm a passionate full stack developer!  
-:globe_with_meridians: I enjoy building modern web solutions with TailwindCSS, React, Firebase, Nodejs, Express and MongoDB.  
+:keyboard: I enjoy building modern web solutions with TailwindCSS, React, Firebase, Nodejs, Express and MongoDB.  
 :computer: Skilled in both frontend and backend development, aiming to bridge design and functionality.  
 :books: Always learning and exploring new tech to improve my craft.  
 :rocket: Excited to collaborate on innovative web projects!  
+
+<div align="center">
+<a href="https://visitcount.itsvg.in">
+        <img 
+            src="https://visitcount.itsvg.in/api?id=subarnoturja&icon=8&color=13" 
+            alt="Profile View Counter"
+        />
+</a>
+</div>
 
 ## :hammer_and_pick: Tech Stacks
 <p align='center'><b>FRONT END</p>
@@ -30,3 +39,46 @@
 <p align="center">
 <img height="70" src=https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png>
 </p>
+<br>
+
+## 	:globe_with_meridians: Socials:
+<p align="center">
+<a href="https://linkedin.com/in/subarno-ranjan-barua" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://x.com/BaruaSubarno" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+</a>
+</p>
+<br>
+
+## :bar_chart: Stats:
+<div align="center">
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=subarnoturja&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" 
+    alt="Top Languages"
+    >
+    <br>
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=subarnoturja&theme=dark&hide_border=true" 
+        alt="GitHub Streak Stats"
+    />
+    <br/>
+    <a href="https://github.com/subarnoturja/github-readme-activity-graph" target="_blank" style="text-decoration: none;">
+    <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=subarnoturja&theme=react-dark" 
+        alt="GitHub Activity Graph" 
+    />
+    </a> 
+</div>
+
+
+## ✍️ Random Dev Quote
+<div align="center">
+    <img 
+        src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" 
+        alt="GitHub Readme Quote" 
+    >
+</div>
+
+
