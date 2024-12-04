@@ -1,4 +1,10 @@
-# 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=%3Ahand%3A+Hello!+there%2C+Myself+Subarno" alt="Typing SVG" /></a>
+<div align="center">
+    <img width=”200" height=”200" src="https://i.postimg.cc/MHxs3hHm/Git-Hub-Banner.png" alt=”my banner”>
+</div>
+<br>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&width=435&lines=Hello!+there%2C+Myself+Subarno" alt="Typing SVG" /></a>
+</div>
 
 ## :boy: About Me
 :smiley: I'm a passionate full stack developer!  
