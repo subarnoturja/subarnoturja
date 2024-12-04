@@ -8,7 +8,7 @@
 :rocket: Excited to collaborate on innovative web projects!  
 
 ## :hammer_and_pick: Tech Stacks
-<b>FRONT END</b>
+<p align='center'><b>FRONT END</p>
 <p align="center">
 <img height="70" src=https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png>
 <img height="70" src=https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png>
@@ -18,7 +18,7 @@
 </p>
 <br>
 <br>
-<b>BACK END</b>
+<p align='center'><b>BACK END</p>
 <p align="center">
 <img height="70" src=https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png>
 <img height="70" src=https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png>
@@ -26,7 +26,7 @@
 </p>
 <br>
 <br>
-<b>DATABASE</b>
+<p align='center'><b>DATABASE</p>
 <p align="center">
 <img height="70" src=https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png>
 </p>
