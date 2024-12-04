@@ -14,12 +14,11 @@
 :rocket: Excited to collaborate on innovative web projects!  
 
 <div align="center">
-<a href="https://visitcount.itsvg.in">
-        <img 
-            src="https://visitcount.itsvg.in/api?id=subarnoturja&icon=8&color=13" 
-            alt="Profile View Counter"
-        />
-</a>
+<img 
+    src="https://komarev.com/ghpvc/?username=subarnoturja&style=plastic&color=lightgrey" 
+    alt="Profile View Counter"
+>
+
 </div>
 
 ## :hammer_and_pick: Tech Stacks
