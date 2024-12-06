@@ -46,7 +46,7 @@
 </p>
 <br>
 
-## 	:globe_with_meridians: Socials:
+## 	:globe_with_meridians: Socials
 <p align="center">
 <a href="https://linkedin.com/in/subarno-ranjan-barua" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -54,7 +54,7 @@
 </p>
 <br>
 
-## :bar_chart: Stats:
+## :bar_chart: Stats
 <div align="center">
 <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=subarnoturja&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" 
